@@ -1,0 +1,30 @@
+pwd
+=> present working directory (where am I)
+ls
+=> lists content of a folder
+ll
+=> long list
+cd folder_name
+=> move into a folder]
+cd ..
+=> moves back to parent folder
+mkdir folder_name
+=> creates new folder
+rm filname
+=> removes a file 
+rm -f 
+=> force removes a file
+rm -rf folder_name
+=> removes a folder
+mv filename folder_name
+=> move a file into a folder
+mv index.html home.html
+=> rename a file/folder
+code .
+=> opens folder in vs code
+open .
+=> mac opens in finder
+
+
+
+
